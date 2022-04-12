@@ -1,12 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=282828&height=150&section=header&text=Yeonghoon%20Profile&fontSize=50&fontColor=fff)
 
-<br><br>
-
 ### Hi there 👋
 
 My name is Young-Hoon Kim, who dreams of becoming a developer.
 <br>
-**yeonghoon123/yeonghoon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yeonghoon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br>
 Here are some ideas to get you started:
 
