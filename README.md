@@ -22,11 +22,6 @@ Here are some ideas to get you started:
 
 - ### My Tech Stack 💻
 
-  <style>
-      img{
-          display : inline-block
-      }
-  </style>
   <img src="https://img.shields.io/badge/WEBRTC-007396?style=flat-square&logo=webrtc&logoColor=white">
   <img src="https://img.shields.io/badge/socket.io-222?style=flat-square&logo=socket.io&logoColor=white">
   <img src="https://img.shields.io/badge/ubuntu-F80000?style=flat-square&logo=ubuntu&logoColor=white">
