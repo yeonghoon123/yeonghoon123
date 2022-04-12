@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is Young-Hoon Kim, who dreams of becoming a developer.
+My name is Young-Hoon Kim, who dreams of becoming a developer. My job is SoyNet and I'm in Sunae.
 <br>
 **yeonghoon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br>
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - ### my github stats
 
-> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonghoon123&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonghoon123&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonghoon123&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonghoon123&layout=compact&theme=radical)
 
 - ### My Tech Stack 💻
 
@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 
 > [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonghoon123&count_bg=%2379C83D&title_bg=%23555555&icon=wolframlanguage.svg&icon_color=%23F9C6C6&title=Thank+You%F0%9F%98%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
-`profile version v0.4`
+`profile version v0.5`
