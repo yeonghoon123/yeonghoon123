@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 > - 🤔 I’m looking for help with ...
 > - ⚡ Fun fact: ... can't code
 
-- ### my github stats
-
-> ![Anurag's GitHub stats](https://tiny.one/readme-stats/api?username=yeonghoon123&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonghoon123&layout=compact&theme=radical)
-
 - ### My Tech Stack 💻
 
   [<img src="https://img.shields.io/badge/WEBRTC-007396?style=flat-square&logo=webrtc&logoColor=white">]('https://webrtc.org/')
