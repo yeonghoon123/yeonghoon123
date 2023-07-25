@@ -35,6 +35,8 @@ Here are some ideas to get you started:
   [<img src="https://img.shields.io/badge/Node.js-40A940?style=flat-square&logo=node.js&logoColor=white">](https://nodejs.org/)
   [<img src="https://img.shields.io/badge/Sass-FF6A89?style=flat-square&logo=sass&logoColor=white">](https://sass-lang.com/)
   [<img src="https://img.shields.io/badge/Postman-FF8C0A?style=flat-square&logo=postman&logoColor=white">](https://www.postman.com/)
+  [<img src="https://img.shields.io/badge/firebase-FF8C0A?style=flat-square&logo=firebase&logoColor=white">](https://firebase.google.com/)
+  
 
 <br>
 
