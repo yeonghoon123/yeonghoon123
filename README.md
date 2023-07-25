@@ -39,11 +39,6 @@ Here are some ideas to get you started:
 
 <br>
 
-- ### **My github ranked?**
-  > [![trophy](https://github-profile-trophy.vercel.app/?username=yeonghoon123)](https://github.com/yeonghoon123)
-
-<br>
-
 - ### **Thank you visit my profile**
 
 > [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonghoon123&count_bg=%2379C83D&title_bg=%23555555&icon=wolframlanguage.svg&icon_color=%23F9C6C6&title=Thank+You%F0%9F%98%98&edge_flat=false)](https://hits.seeyoufarm.com)
