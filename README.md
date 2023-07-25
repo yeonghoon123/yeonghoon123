@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css3-1572b6?style=flat-square&logo=css3&logocolor=white">
   [<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">](https://getbootstrap.com/)
   [<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">](https://github.com/)
-  [<img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=aws&logoColor=white">](https://aws.amazon.com/)
+  [<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white">](https://aws.amazon.com/)
   <img src="https://img.shields.io/badge/TypeScript-648CFF?style=flat-square&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/shell-a0a0a0?style=flat-square&logo=shell&logoColor=white">
   [<img src="https://img.shields.io/badge/Next.js-220?style=flat-square&logo=next.js&logoColor=white">](https://nextjs.org/)
