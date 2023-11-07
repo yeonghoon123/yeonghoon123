@@ -1,16 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=282828&height=150&section=header&text=Yeonghoon%20Profile&fontSize=50&fontColor=fff)
 
-### Hi there 👋
-
-My name is Young-Hoon Kim, who dreams of becoming a developer. My job is SoyNet and I'm in Sunae.
-<br>
-**yeonghoon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<br>
-Here are some ideas to get you started:
-
-> - 🔭 I’m currently working on ... Soynet
-> - 🌱 I’m currently learning ... JavaScript
-
 - ### My Tech Stack 💻
 
   [<img src="https://img.shields.io/badge/WEBRTC-007396?style=flat-square&logo=webrtc&logoColor=white">]('https://webrtc.org/')
